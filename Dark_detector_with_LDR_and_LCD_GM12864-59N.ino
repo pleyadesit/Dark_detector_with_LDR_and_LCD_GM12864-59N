@@ -1,6 +1,6 @@
 /* A4 --> SDA  /  A5 --> SCL */
 
-#include"lcd_st7567s.h"
+#include"lcd_st7567s.h"  // Download library --> https://github.com/luetee/ST7567S_128X64_I2C
 
 lcd_st7567s Lcd;
 
